@@ -55,7 +55,7 @@ html {
   font-size: 24px;
   text-align: center;
   border: 3px solid #222;
-  background-color: rgba(136, 108, 136, 0.192);
+  background-color: rgba(223, 216, 195, 0.685);
   border-radius: 7px;
   margin: 5px 10px;
   padding: 10px;
@@ -64,7 +64,7 @@ html {
 }
 
 .link > a:hover {
-  background-color: rgb(172, 152, 189);
+  background-color: rgb(195, 212, 131);
 }
 
 .footer {
